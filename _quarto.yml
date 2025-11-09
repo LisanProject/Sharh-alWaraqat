@@ -35,4 +35,12 @@ format:
     theme:
       light: cosmo
       dark: darkly
-   
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    toc-expand: 2
+    smooth-scroll: true
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+code-overflow: wrap
