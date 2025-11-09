@@ -82,7 +82,4 @@ Research shows that reviewing notes at spaced intervals drastically increases re
   
 | Time | What to Do | Why? |
 |------|-------------|------|
-| Within 24-48 hours | Reread your notes and add missing details (this is especially important if you are re-watching the lectures and catch important missed information) | This prevents forgetting up to 50–80% of material. |
-| After 3-6 days | Revisit and summarize the key ideas in your own words. If you're able to, explain to other students in the class.| This not only reinforces your own understanding, but helps other students benefit as well and helps build lasting relationships with students you may take subsequent classes with. |
-
----
+| Within 24-48 hours | Reread your notes and add missing details (this is especially important if you are re-watching the lectures a
