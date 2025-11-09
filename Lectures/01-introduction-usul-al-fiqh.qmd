@@ -8,9 +8,9 @@
 > — Poem attributed to Imam Abu Hanifa (رحمه الله)  
 
 Imam al-Haddad’s intention reads:  
-> “I intend to study and teach, to take and give a reminder, to take and give benefit, to take and give advantage, to encourage the holding fast to the Book of Allah and the way of His Messenger, to call to guidance and directing towards good, hoping for the countenance of Allah and His pleasure, His proximity and reward.”  
+> “I intend to **study and teach**, to *take* and *give* a **reminder**, to *take* and *give benefit*, to *take* and *give* **advantage**, to **encourage** the **holding fast** to the **Book of Allah** and the **way of His Messenger** صلى الله عليه وسلم, to **call to guidance** and **directing towards good**, hoping for the countenance of Allah and His pleasure, His proximity and reward.”  
 
-Imam al-Dhahabi notes that a sincere seeker of knowledge will show humility, fear of Allah, and lack of pride; whereas one whose intention is worldly will grow arrogant, quarrel, and seek admiration.  
+Imam al-Dhahabi notes that a **sincere seeker of knowledge** will show **humility**, **fear of Allah**, and **lack of prid**e; whereas one whose intention is worldly will grow **arrogant**, **quarrel**, and **seek admiration**.  
 :::
 
 
@@ -30,7 +30,7 @@ Before studying *al-Waraqat*, it's very important to know that knowledge (as we'
 
 | Type | Description |
 |------|-------------|
-| **Matn (متن)** | A short, foundational text that is concise and is often memorized. Example: *al-Waraqat*, *Matn Abi Shuja*, Safwat al-Zubad, etc.**. |
+| **Matn (متن)** | A short, foundational text that is concise and is often memorized. Example: *al-Waraqat*, *Matn Abi Shuja*, *Safwat al-Zubad*, etc. |
 | **Sharh (شرح)** | A commentary that explains the matn. May be word-by-word or explanatory. |
 | **Hashiyah / Hawashi (حاشية / حواشي)** | Marginal notes written on top of commentaries, also known as super-commentaries or glosses. Developed widely after the 8th century when writing another commentary was no longer beneficial due to existing works. |
 | **Taqrirat (تقريرات)** | Clarifying notes a scholar writes *on top of a hashiyah or commentary* to correct, refine, or add legal detail. |

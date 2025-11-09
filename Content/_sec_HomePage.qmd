@@ -20,9 +20,10 @@ limitations under the License.
 
 # Introduction {#sec-intro}
 
-The long-term goal of this project is to provide an accessible, organized study companion for English-speaking students of sacred law, rooted in reliable Shafi'i methodology and sources (as taught by **Sheikh Abdullahi Shire of Miraath Institute**).
+The long-term goal of this project is to provide an accessible, organized study companion for English-speaking students of sacred law, based on **Sharh al-Waraqat by Imam Jalal al-Din al-Mahalli**, and taught according to reliable Shafi'i methodology and sources by **Sheikh Abdullahi Shire (Miraath Institute)** ([Instagram](https://www.instagram.com/abdullahishire_/?hl=en)).
 
-This work was originally inspired by a fellow student who inquired about my note-taking approach a while back. In the spirit of classical tradition, I was reminded of **Ta'lim al-Muta'allim fi Tariq al-Ta'allum** (Instruction of the Student: The Method of Learning), which outlines adab and practical methods for serious seekers of sacred knowledge.
+
+This work was originally inspired by a fellow student (may Allah preserve him and protect him) who inquired about my note-taking approach a while back. In the spirit of classical tradition, I was reminded of **Ta'lim al-Muta'allim fi Tariq al-Ta'allum** (*Instruction of the Student: The Method of Learning*), which outlines adab and practical methods for serious seekers of sacred knowledge.
 
 [Read the English translation of *Ta'lim al-Muta'allim*](https://ia801504.us.archive.org/31/items/53330826InstructionOfTheStudentTaAlimAlMutaAllimTheMethodOfLearning/53330826-Instruction-of-the-Student-Ta-alim-al-Muta-allim-The-Method-of-Learning.pdf)
 
@@ -36,7 +37,7 @@ The content follows the topical arrangement of *Sharh al-Waraqat* by Imam al-Mah
 
 ## How to Take Notes While Studying Islamic Sciences {#note-taking}
 
-Many students struggle to retain English explanations while following the Arabic text. Research from the [University of Pennsylvania](https://weingartencenter.universitylife.upenn.edu/take-better-notes-the-relationship-between-time-and-memory/) shows that students remember **up to 70% of material when they write concise notes and review them within 24 hours**, compared to less than 30% if no active note-taking or review is done.
+Many students struggle to retain English explanations while following the Arabic text, especially when encountering unfamiliar words and concepts related to the subject matter at hand. Research from the [University of Pennsylvania](https://weingartencenter.universitylife.upenn.edu/take-better-notes-the-relationship-between-time-and-memory/) shows that students remember **up to 70% of material when they write concise notes and review them within 24 hours**, compared to less than 30% if no active note-taking or review is done.
 
 ### Preparation: Setting Up Your Notes
 

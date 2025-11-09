@@ -28,7 +28,7 @@ website:
       
       - section: "Lectures"
         contents:
-          - Lectures/01-introduction-usul-al-fiqh.qmd
+          - Lectures/01-Introduction-usul-al-fiqh.qmd
 
 format:
   html:
