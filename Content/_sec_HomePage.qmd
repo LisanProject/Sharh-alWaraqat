@@ -1,0 +1,87 @@
+---
+pagetitle: "Home Page"
+---
+
+::: {.content-hidden}
+Copyright (C) 2025 Liban Hussein
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+:::
+
+# Introduction {#sec-intro}
+
+The long-term goal of this project is to provide an accessible, organized study companion for English-speaking students of sacred law, rooted in reliable Shafi'i methodology and sources (as taught by **Sheikh Abdullahi Shire of Miraath Institute**).
+
+This work was originally inspired by a fellow student who inquired about my note-taking approach a while back. In the spirit of classical tradition, I was reminded of **Ta'lim al-Muta'allim fi Tariq al-Ta'allum** (Instruction of the Student: The Method of Learning), which outlines adab and practical methods for serious seekers of sacred knowledge.
+
+[Read the English translation of *Ta'lim al-Muta'allim*](https://ia801504.us.archive.org/31/items/53330826InstructionOfTheStudentTaAlimAlMutaAllimTheMethodOfLearning/53330826-Instruction-of-the-Student-Ta-alim-al-Muta-allim-The-Method-of-Learning.pdf)
+
+---
+
+## Organization
+
+The content follows the topical arrangement of *Sharh al-Waraqat* by Imam al-Mahalli, beginning with biographies of the author (Imam al-Haramayn al-Juwayni) and the commentator (Imam Jalal al-Din al-Mahalli), then progressing through the essential chapters of Usul al-Fiqh, including, but not limited to categories of speech, rulings, commands and prohibitions, general and specific texts, abrogation, consensus, analogy (qiyas), and independent legal reasoning (ijtihad).
+
+---
+
+## How to Take Notes While Studying Islamic Sciences {#note-taking}
+
+Many students struggle to retain English explanations while following the Arabic text. Research from the [University of Pennsylvania](https://weingartencenter.universitylife.upenn.edu/take-better-notes-the-relationship-between-time-and-memory/) shows that students remember **up to 70% of material when they write concise notes and review them within 24 hours**, compared to less than 30% if no active note-taking or review is done.
+
+### Preparation: Setting Up Your Notes
+
+::: {.callout-tip title="Before the Lesson"}
+- Print or bring the Arabic text of *Sharh al-Waraqat*. Lightly number each line or key statement in the matn.
+- Keep a separate notebook or tablet for your notes — leave space beside each line number to write explanations.
+- Draw a narrow left column for keywords or questions and a larger right section for class explanations and commentary.
+- Leave a bottom section or back of the page for summarizing what you learned after class.
+:::
+
+
+---
+
+### How to Structure Your Notes During Class
+
+Structure your **notebook page/notetaking device** like this:
+
+| Section | Purpose |
+|---------|---------|
+| Left Margin (small) | Write Arabic line number, key term, or question. |
+| Main Notes Area (right side) | English explanation, teacher’s commentary, definitions, examples. |
+| Bottom of Page / Separate Box | Summary of lesson, unresolved questions, or reflections. |
+
+You may lightly underline important words in the Arabic text, but full explanations should remain in the notebook or be referenced from reliable translations. In addition, always, when referencing or quoting a hadith by the Prophet Muhammad, always write out Salawat in it's full form (صلى الله عليه وسلم).
+
+---
+
+### Minimal Color System 
+
+| Color | Use For |
+|-------|---------|
+| Blue | Key Arabic terms & definitions. |
+| Green | Important commentary or explanations from Sheikh Abdullahi Shire. |
+| Red | Questions, uncertainties, or topics to review or ask about. |
+
+---
+
+### Evidence-Based Review Schedule 
+
+Research shows that reviewing notes at spaced intervals drastically increases retention. A simple routine I've found to be helpful is:
+
+  
+| Time | What to Do | Why? |
+|------|-------------|------|
+| Within 24-48 hours | Reread your notes and add missing details (this is especially important if you are re-watching the lectures and catch important missed information) | This prevents forgetting up to 50–80% of material. |
+| After 3-6 days | Revisit and summarize the key ideas in your own words. If you're able to, explain to other students in the class.| This not only reinforces your own understanding, but helps other students benefit as well and helps build lasting relationships with students you may take subsequent classes with. |
+
+---
