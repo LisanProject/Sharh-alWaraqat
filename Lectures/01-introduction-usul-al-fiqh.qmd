@@ -68,6 +68,32 @@ Students who are enrolled in the course may access the recording (as well as dia
 :::
 
 
+::: {.callout-tip title="Fun Fact- Titles of Scholars within the Shafi'i Madhab"}
+
+Within the Shafi'i school, scholars are often referenced by honorific titles rather than their names.  
+These titles indicate scholarly authority, rank, or specific contributions to the development of the madhhab.
+
+## Major Titles and Their Usage
+
+1. **Al-Qadi (القاضي)**  
+   Commonly used to refer to **Qadi Abu Bakr al-Baqillani**, though occasionally applied to other jurists who served as chief judges or early authorities in kalam and usul (like **Qadi Abu Shuja'**)  
+
+2. **Al-Imam (الإمام)**  
+   Designates **Imam al-Haramayn al-Juwayni**, the teacher of al-Ghazali and a pivotal systematizer of Shafi'i usul.  
+
+3. **Al-Shaykhayn (الشيخان)**  
+   Always refers to **Imam al-Rafi'i** and **Imam al-Nawawi**, whose opinions together form the later *mu'tamad* (established) position of the madhhab.  
+
+4. **Asab al-Wujuh (أصحاب الوجوه)**  
+   A select group of early mujtahid Imams *within* the madhhab who formulated independent opinions (*wujuh*), later codified by scholars like **al-Nawawi** and **al-Rafi'i**.  
+  Some of these include **Imam Muzani**, **Hujjat al-Islam Abu Hamid al-Ghazali**, **Imam Buwayti**, and **Abu Ishaq al-Shirazi**. 
+
+5. **Al-Mujaddid (المجدد)**  
+   Refers to revivers of the school’s teaching and methodology in their respective centuries—e.g., **al-Shafi'i** in the *2nd century*, **al-Nawawi** in the *7th century*, **al-Suyuti** in the *10th*.  
+
+6. **Shaykh al-Islam (شيخ الاسلام)**  
+    Refers almost always to Shaykh al-Islam **Zakariyyah al-Ansari**, the Mujaddid of the 9th century, as well as the teacher of many luminaries including ibn Hajar al-Haytami, al-Khatib al-Shirbini, and Shams al-Din al-Ramli.
+
 ## What is Usul al-Fiqh?
 
 **Usul al-Fiqh (أصول الفقه)** means *the foundational principles by which legal rulings are derived*.  
