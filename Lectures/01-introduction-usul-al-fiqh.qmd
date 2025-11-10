@@ -239,19 +239,39 @@ Use this checklist to review what you’ve learned and ensure you understand the
 - [ ] What are the **three levels of students** in traditional learning?
 - [ ] Can I clearly differentiate their abilities?
 
-### Types of Texts in Islamic Scholarship
-Can I define each of the following **in my own words**:
-
-- [ ] **Matn (متن)** — What is its purpose?
-- [ ] **Sharh (شرح)** — What is its function?
-- [ ] **Two Types of Sharḥ:** 
-- [ ] **Hashiyah (حاشية)** — When and *why* did it appear historically?  
-- [ ] **Taʿliqat (تعليقات)** — How does it differ from a full commentary?  
-- [ ] **Taqrirat (تقريرات)** — Where is it written, and why?
+### Terms in Usul al-Fiqh
+- [ ] Matn (متن)
+- [ ] Sharh (شرح)
+- [ ] Sharh Qawli (شرح قولي)
+- [ ] Sharh Mazji (شرح مزجي)
+- [ ] Hashiyah (حاشية)
+- [ ] Ta'liqat (تعليقات)
+- [ ] Taqrirat (تقريرات)
+- [ ] Istilah (اصطلاح)
+- [ ] Ilm al-Bahth (علم البحث)
+- [ ] Mustaqil (مستقل)
+- [ ] Istimdad (استمداد)
+- [ ] Ta'birat (تعبيرات)
+- [ ] Fasl (فصل)
+- [ ] Tarkib Idafi (تركيب إضافي)
+- [ ] Tasawwur (تصور)
+- [ ] Tasdiq (تصديق)
 
 ---
 
-Make sure you can answer these before moving on to the next lesson. 
+::: {.callout-tip title="Resource: Hans Wehr Arabic–English Dictionary"}
+
+For a deeper understanding of the Arabic roots and words used in the course by Sheikh Abdullahi, use the **searchable Hans Wehr Arabic–English Dictionary**.
+
+[Open the searchable Hans Wehr Dictionary](https://giftsofknowledge.net/wp-content/uploads/2016/01/hans-wehr-searchable-pdf.pdf)
+
+You can search by Arabic root (**ش ر ح**, **ف ق ه**, **أ ص ل**) to see how you can derive definitions for the words used in class.
+
+:::
+
+---
+
+::: {.callout-important title="Final Review"}
+Make sure you can answer these questions before moving on to the next lesson.  
 وبالله التوفيق.
-
----
+:::
