@@ -10,7 +10,7 @@
 Imam al-Haddad’s intention reads:  
 > “I intend to **study and teach**, to *take* and *give* a **reminder**, to *take* and *give* **benefit**, to *take* and *give* **advantage**, to **encourage** the **holding fast** to the **Book of Allah** and the **way of His Messenger** صلى الله عليه وسلم, to **call to guidance** and **directing towards good**, hoping for the countenance of Allah and His pleasure, His proximity and reward.”  
 
-Imam al-Dhahabi notes that a **sincere seeker of knowledge** will show **humility**, **fear of Allah**, and **lack of prid**e; whereas one whose intention is worldly will grow **arrogant**, **quarrel**, and **seek admiration**.  
+Imam al-Dhahabi notes that a **sincere seeker of knowledge** will show **humility**, **fear of Allah**, and **lack of pride**; whereas one whose intention is worldly will grow **arrogant**, **quarrel**, and **seek admiration**.  
 :::
 
 
@@ -77,7 +77,7 @@ These titles indicate scholarly authority, rank, or specific contributions to th
    Commonly used to refer to **Qadi Abu Bakr al-Baqillani**, the great Ash'ari Mutakallim and Usuli, though occasionally applied to other jurists who served as chief judges or early authorities in kalam and usul (like **Qadi Abu Shuja'**).  
 
 2. **Al-Imam (الإمام)**  
-   Designates **Imam al-Haramayn al-Juwayni**, the teacher of al-Ghazali and a pivotal systematizer of Shafi'i usul.  
+   Designates **Imam al-Haramain al-Juwayni**, the teacher of al-Ghazali and a pivotal systematizer of Shafi'i usul.  
 
 3. **Al-Shaykhan (الشيخان)**  
    Always refers to **Imam al-Rafi'i** and **Imam al-Nawawi**, whose opinions together form the later *mu'tamad* (established) position of the madhhab.  
@@ -186,7 +186,7 @@ Surah Yusuf: Verse 76
 | Word | Arabic | Linguistic Meaning |
 |------|--------|---------------------|
 | **Usul** | أصول | *Foundations, roots, or that upon which something is built.* |
-| **Fiqh** | فقه | *Understanding for something as it is in reality.* |
+| **Fiqh** | فقه | *Literally understanding something.* |
 
 ::: {.callout-tip title="Example in Arabic Usage: هذا / ذلك"}
 - **هذا (this)** refers to something *near or built upon something certain*.  
