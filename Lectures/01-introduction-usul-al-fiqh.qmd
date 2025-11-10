@@ -1,6 +1,5 @@
 # Lecture I: Course Introduction to *al-Waraqat* and the Science of Usul al-Fiqh [11/8/2025, Jumada al-Awwal 17, 1447 AH]
 
-
 ::: {.callout-warning title="Intention in Seeking Knowledge"}
 
 > “Whoever strives for knowledge for the Hereafter obtains great gain in righteousness.  
@@ -68,7 +67,7 @@ Students who are enrolled in the course may access the recording (as well as dia
 :::
 
 
-::: {.callout-tip title="Fun Fact — Titles of Scholars within the Shafi'i Madhhab"}
+::: {.callout-tip title="Fun Fact — Titles of Scholars within the Shafi'i Madhhab" collapse="true"}
 
 Within the Shafi'i school, scholars are often referenced by honorific titles rather than their names.  
 These titles indicate scholarly authority, rank, or specific contributions to the development of the madhhab.
@@ -200,7 +199,7 @@ Surah Yusuf: Verse 76
 Linguistically, fiqh means to **understand something as it is**. 
 
 ::: {.callout-note title="Usage of Ma'rifah and Ilm"}
-Sheikh Abdullahi brought up an interesting point (around the 1:03:00 mark in the lesson), one that caught my eye initially when seeing the text — Imam al-Haramain uses the term *ma'rifah* in his text, although Sheikh Abdullahi mentions that other commentators use *'ilm*.  
+Sheikh Abdullahi brought up an interesting point (around the **1:03:00** mark in the lesson), one that caught my eye initially when seeing the text — Imam al-Haramain uses the term *ma'rifah* in his text, although Sheikh Abdullahi mentions that other commentators use *'ilm*.  
 
 The two terms are interchangeable in most contexts, but as mentioned previously, one must exercise caution when distinguishing linguistic meanings from technical meanings within a science.  
 :::
