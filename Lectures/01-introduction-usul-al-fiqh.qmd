@@ -16,12 +16,63 @@ Imam al-Dhahabi notes that a **sincere seeker of knowledge** will show **humilit
 
 This section introduces the purpose of *al-Waraqat*, outlines how Imam al-Haramain al-Juwayni defines fiqh and usul al-fiqh, and provides essential background on how Islamic legal texts are structured from short foundational texts (*mutun*) to layered commentaries.
 
+## Lecture Map: Timestamps & Figures
+
+::: {.callout-tip title="Lecture I Timestamps Table"}
+Please reference this table to jump back into the recording and match segments to the diagrams. “Page” refers to the **Usul al-Fiqh Diagrams** PDF that were shared by the Miraath Admin in the class group chat. May Allah reward them for providing clear diagrams that were beneficial in cross-linking between the text and the lesson by Sheikh Abdullahi.
+:::
+
+### Timestamps → Topics → Figures
+
+| Time Range        | Topic / Segment                                                                                                  | Figure / Page |
+|:------------------|:------------------------------------------------------------------------------------------------------------------|:--------------|
+| 00:00–01:26       | Introduction to Prophetic Inheritance series; recap of completed material                                         | —             |
+| 01:27–01:50       | Goals for future classes (e.g., *al-Lumaʿ* of Imam al-Shirazi; classes on **ʿilm al-bahth**/research)             | —             |
+| 01:51–02:28       | Importance of **mantiq** (logic) and rational sciences for **usul al-fiqh**                                       | —             |
+| 03:24–05:34       | Value of having a **physical book** while studying                                                                | —             |
+| 05:43–22:10       | **Page 1** of Diagrams: Types of texts in Islamic sciences; commentary types                                      | p. 1          |
+| 22:10–23:41       | The beauty and importance of **usul al-fiqh**                                                                     | —             |
+| 24:25–25:30       | Beginning **Sharh al-Waraqat** (reading)                                                                          | —             |
+| 25:30–26:36       | **Page 2** of Diagrams: **Mabadiʿ al-ʿAsharah** (ten principles); **al-Hadd** (definition)                        | p. 2          |
+| 26:36–28:00       | What is **Usul al-Fiqh**?                                                                                         | —             |
+| 28:00–32:34       | Linguistic definition; **tarkib idafi** (construct phrase)                                                        | —             |
+| 32:34–34:32       | **Page 3** of Diagrams: **Idrak** and levels of cognizance                                                        | p. 3          |
+| 34:32–37:00       | **Maʿrifah (tasawwur)** ≈ **al-Hadd**; **ʿIlm (tasdiq)**                                                          | —             |
+| 37:21–38:16       | Recap of **Juwayni’s** introduction                                                                               | —             |
+| 38:16–39:56       | Definition of **fasl** (barrier/separator)                                                                        | —             |
+| 39:56–43:20       | Levels of students (beginner/intermediate/advanced)                                                               | —             |
+| 43:20–43:56       | Why **al-Waraqat** benefits all levels                                                                            | —             |
+| 43:56–45:09       | **Dhalika** vs **Hadha**                                                                                          | —             |
+| 45:09–45:50       | The particle **“ay”** (اي)                                                                                  | —             |
+| 46:29–47:35       | Composition of the words **“Usul”** and **“Fiqh”**                                                                | —             |
+| 47:35–51:50       | **Page 4** of Diagrams: **Ifrad** definition and categories                                                        | p. 4          |
+| 51:51–57:14       | Breakdown of **asl**                                                                                               | —             |
+| 57:14–59:01       | Definition and breakdown of **farʿ**                                                                              | —             |
+| 59:01–1:03:30     | Definition of **fiqh**                                                                                             |              | 
+| 1:11:17–1:16:30   | **Page 5 of Diagrams**: **Ahkam**: definition and categorization                                                                          | p. 5             |
+| 1:16:30–1:19:17   | Q&A + logistics                                                                                                   | —             |
+
+### Figure Cross-Reference
+- **p. 1** — Text types & commentary patterns  
+- **p. 2** — **al-Hadd**, linguistic and technical definitions
+- **p. 3** — **Idrak**, maʿrifah vs ʿilm framing  
+- **p. 4** — **Ifrad**, categories; lead-ins to **asl**/**farʿ**
+- **p. 5** — **Ahkam**, categories
+
+
 ---
+
+::: {.callout-important title="Course Material"}
+Since this course is part of a **paid class**, the video lecture will **not be publicly linked** here.  
+Students who are enrolled in the course may access the recording (as well as diagrams) shared by the Miraath Admin team in the course group chat.
+:::
+
 
 ## What is Usul al-Fiqh?
 
 **Usul al-Fiqh (أصول الفقه)** means *the foundational principles by which legal rulings are derived*.  
 Let's dive deeper into what this means exactly. However, before doing so, it's important to understand how Islamic scholarship and texts are structured.
+
 ---
 
 ## How Islamic Legal Knowledge is Written
@@ -43,13 +94,13 @@ Before studying *al-Waraqat*, it's very important to know that knowledge (as we'
 | Type | Arabic | Description |
 |------|--------|-------------|
 | **Word-by-word commentary** | شرح قولي | Explains each phrase of the matn directly, sticking closely to the author’s wording. |
-| **Blended or integrated commentary** | شرح مسجي / شرح مخلوط | The commentator mixes the matn with explanation, often adding their own legal opinions and preferences within the text. |
+| **Blended or integrated commentary** | شرح مزجي / شرح مخلوط | The commentator mixes the matn with explanation, often adding their own legal opinions and preferences within the text. |
 :::
 ---
 
 ## Why This Matters for Studying *al-Waraqat*
 
-*Al-Waraqat* is one of the shortest yet most foundational texts in usul al-fiqh. Regardless of one's status in knowledge (beginner, intermediate and advances), it serves as a primary reference that is incredibly beneficial. It is:
+*Al-Waraqat* is one of the shortest yet most foundational texts in usul al-fiqh. Regardless of one's status in knowledge (beginner, intermediate and advanced), it serves as a primary reference that is incredibly beneficial. It is:
 
 - A **matn**, written by Imam al-Juwayni, independent of any other work. By this, I mean that when the great Imam wrote the work, he didn't reference another book prior and is original work by Imam al-Juwayni.  
 - Explained by Imam al-Mahalli in this **sharh**  
@@ -97,8 +148,8 @@ Surah Yusuf: Verse 76
 
 ## The Term “Usul al-Fiqh” — Linguistic & Structural Analysis
 
-- The phrase **Usul al-Fiqh (أصول الفقه)** is made up of **two singular words (mufradāt)**: *Usul* + *Fiqh*.  
-- Together, they form a **tarkib idafi (construct phrase)** — like “House of Knowledge,” “Book of Salah,” etc.
+- The phrase **Usul al-Fiqh (أصول الفقه)** is made up of **two singular words (mufradat)**: *Usul* + *Fiqh*.  
+- Together, they form a **tarkib idafi (construct phrase)** — like “House of Allah,” “Book of Salah,” etc.
 
 ---
 
@@ -107,12 +158,11 @@ Surah Yusuf: Verse 76
 | Word | Arabic | Linguistic Meaning |
 |------|--------|---------------------|
 | **Usul** | أصول | *Foundations, roots, or that upon which something is built.* |
-| **Fiqh** | فقه | *Deep understanding for something as it is in reality.* |
+| **Fiqh** | فقه | *Understanding for something as it is in reality.* |
 
 ::: {.callout-tip title="Example in Arabic Usage: هذا / ذلك"}
 - **هذا (this)** refers to something *near or built upon something certain*.  
-- **ذلك (that)** refers to something *distant or indirectly known*.  
-Similarly, *usul* are the “this” — the building blocks upon which rulings are established.
+- **ذلك (that)** refers to something *distant or previously referred to*.  
 :::
 
 ---
@@ -122,7 +172,7 @@ Similarly, *usul* are the “this” — the building blocks upon which rulings 
 Linguistically, fiqh means to **understand something as it is**. 
 
 ::: {.callout-note title="Usage of Ma'rifah and Ilm"}
-Sheikh Abdullahi brought up an interesting point, one that caught my eye initially when seeing the text — Imam al-Haramain uses the term *ma'rifah* in his text, although Sheikh Abdullahi mentions that other commentators use *'ilm*.  
+Sheikh Abdullahi brought up an interesting point (around the 1:03:00 mark in the lesson), one that caught my eye initially when seeing the text — Imam al-Haramain uses the term *ma'rifah* in his text, although Sheikh Abdullahi mentions that other commentators use *'ilm*.  
 
 The two terms are interchangeable in most contexts, but as mentioned previously, one must exercise caution when distinguishing linguistic meanings from technical meanings within a science.  
 :::
@@ -135,11 +185,9 @@ The two terms are interchangeable in most contexts, but as mentioned previously,
 ::: {.callout-note title="‘Ilm (علم) vs Maʿrifah (معرفة)"}
 - **Ma'rifah (Cognizance):**  
   - Perceiving something as it is.  
-  - Often comes *after ignorance*.  
 
 - **‘Ilm (Knowledge):**  
-  - Knowing a thing and how it relates to another.  
-  - Not preceded by ignorance.
+  - Knowing a thing and how it relates to another (this is often contextual to a science)
 
 **Example:**  
 - Knowing *salah* is an act, and *wajib* means obligatory is **ma'rifah**.  
