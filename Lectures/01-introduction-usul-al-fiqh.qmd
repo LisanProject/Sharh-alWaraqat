@@ -91,6 +91,9 @@ These titles indicate scholarly authority, rank, or specific contributions to th
 6. **Shaykh al-Islam (شيخ الإسلام)**  
    Refers almost always to **Zakariyyah al-Ansari**, the Mujaddid of the 9th century, as well as the teacher of many luminaries including Ibn Hajar al-Haytami, al-Khatib al-Shirbini, and Shams al-Din al-Ramli.
 
+   7. **al-Sharih (الشارح)**  
+   Refers almost always to **Imam Jalal al-Din al-Mahalli**, the distinguished Shafi‘i jurist and theologian renowned for his precise and accessible commentaries. He authored a commentary on Imam Nawawi’s Minhaj al-Talibin, a commentary on al-Waraqat in Usul al-Fiqh, and a commentary on Jam‘ al-Jawami‘ by Imam al-Subki. He is also known as the co-author of Tafsir al-Jalalayn, completed by his student Jalal al-Din al-Suyuti.
+
 :::
 
 ---

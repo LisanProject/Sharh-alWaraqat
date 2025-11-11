@@ -40,11 +40,28 @@ Many students struggle to retain English explanations while following the Arabic
 
 ### Preparation: Setting Up Your Notes
 
-::: {.callout-tip title="Before the Lesson"}
+::: {.callout-note title="Before the Lesson"}
 - Print or bring the Arabic text of *Sharh al-Waraqat*. Lightly number each line or key statement in the matn.
 - Keep a separate notebook or tablet for your notes — leave space beside each line number to write explanations.
 - Draw a narrow left column for keywords or questions and a larger right section for class explanations and commentary.
 - Leave a bottom section or back of the page for summarizing what you learned after class.
+- Before class, **recite Qur’an abundantly** and **send abundant salawat upon the Prophet ﷺ**, intending that Allah opens understanding and blesses your lesson.
+:::
+
+::: {.callout-tip title="Reflections from the Scholars"}
+Some people said to the scholar of Damascus **Shaykh Ali al-Daqqar**:  
+> “We deliver various lessons to the people but we do not see in them the same effect that we notice in your lessons.”  
+
+He replied:  
+> “My son — were it not for necessity I would not speak. This lesson you are hearing, my son, is supported by the recitation of ten ajza’ (parts) of the Qur’an before dawn with the intention that Allah benefits the Muslims through what I speak about.”
+
+---
+
+**Al-Haafidh al-Diyaa’ al-Maqdisi** said:  
+> "Ibrahim ibn ‘Abdil-Wahid al-Maqdisi advised me at the time I traveled for seeking knowledge: ‘Increase in recitation of the Qur’an and do not leave it. For indeed whatever you seek will be facilitated for you proportionate to what you recite.’”
+
+He added:  
+> “I saw that and experienced it many times. When I recited a great deal of Qur’an, listening to Hadith and writing much of it down became easy for me. But when I did not recite, it was not facilitated.”
 :::
 
 
