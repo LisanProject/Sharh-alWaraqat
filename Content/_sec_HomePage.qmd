@@ -1,5 +1,5 @@
 ---
-pagetitle: "Home Page"
+pagetitle: "Introduction, Note-taking Tips and Biographies of the Authors"
 ---
 
 ::: {.content-hidden}

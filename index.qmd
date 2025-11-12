@@ -1,8 +1,8 @@
 ---
-pagetitle: "Sharh Matn al-Waraqat by Imam Jalal al-Din al Mahalli"
+pagetitle: "Home Page"
 ---
 
-# Sharh Matn al-Waraqat
+# Home Page
 ### A Commentary (by Imam Jalal al-Din al-Mahalli) on the Foundational Primer in Usul al-Fiqh in the Shafi'i Madhhab authored by Imam al-Haramain al-Juwayni   
 **(c) 2025 L.A Hussein**
 

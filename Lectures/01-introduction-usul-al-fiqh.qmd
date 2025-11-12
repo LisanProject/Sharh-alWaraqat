@@ -1,3 +1,6 @@
+---
+pagetitle: "Lecture Notes"
+---
 # Lecture I: Course Introduction to *al-Waraqat* and the Science of Usul al-Fiqh [11/8/2025, Jumada al-Awwal 17, 1447 AH]
 
 ::: {.callout-warning title="Intention in Seeking Knowledge"}
@@ -152,7 +155,7 @@ Classical scholars state: *"Whoever wishes to master a science must know its ten
 
 **The first principle (al-Hadd) is the definition**. It's imperative we ask outselves what exactly is Usul al-Fiqh, i.e, what is the Hadd for these words?
 
-The remaining nine foundations of knowledge will be covered in subsequent lessons, insha'Allah as Sheikh Abdullahi has stated, although he's hinted at what some of these are verbally from the first lecture. Some of the things I recall are *Mauduʿ* (subject matter) and *Thamara* (fruits/benefits in learning a science) to name a couple.
+The remaining nine foundations of knowledge will be covered in subsequent lessons, insha'Allah as Sheikh Abdullahi has stated, although he's hinted at what some of these are verbally from the first lecture. Some of the things I recall are *Mauduʿ (subject matter) and *Thamara* (fruits/benefits in learning a science) to name a couple.
 
 ---
 

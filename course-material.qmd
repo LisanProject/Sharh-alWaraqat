@@ -1,5 +1,5 @@
 ---
-title: Commentary of "Al-Waraqat" by Imam Jalal al-Din al-Mahalli
+title: Course Introduction, Note-Taking Tips, and Biographies of the Authors
 author:
   - name: L.A. Hussein
     email: lisanproject25@gmail.com
