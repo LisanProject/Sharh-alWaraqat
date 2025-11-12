@@ -72,30 +72,40 @@ Students who are enrolled in the course may access the recording (as well as dia
 
 ::: {.callout-tip title="Fun Fact — Titles of Scholars within the Shafi'i Madhhab" collapse="true"}
 
-Within the Shafi'i school, scholars are often referenced by honorific titles rather than their names.  
-These titles indicate scholarly authority, rank, or specific contributions to the development of the madhhab.
+Within the Shafi'i school, major scholars are often known by honorific titles rather than names.  
+Each title reflects the scholar’s authority and contribution to the development of the madhhab.
 
 1. **Al-Qadi (القاضي)**  
-   Commonly used to refer to **Qadi Abu Bakr al-Baqillani**, the great Ash'ari Mutakallim and Usuli, though occasionally applied to other jurists who served as chief judges or early authorities in kalam and usul (like **Qadi Abu Shuja'**).  
+   Usually refers to **Qadi Abu Bakr al-Baqillani**, the leading Ash'ari theologian and jurist known for his precision in kalam and usul.  
+   The title is also used for other early judges such as **Qadi Abu Shuja'**.
 
 2. **Al-Imam (الإمام)**  
-   Designates **Imam al-Haramain al-Juwayni**, the teacher of al-Ghazali and a pivotal systematizer of Shafi'i usul.  
+   Refers to **Imam al-Haramayn al-Juwayni**, the teacher of al-Ghazali and a central figure in organizing and clarifying Shafi'i legal theory.
 
 3. **Al-Shaykhan (الشيخان)**  
-   Always refers to **Imam al-Rafi'i** and **Imam al-Nawawi**, whose opinions together form the later *mu'tamad* (established) position of the madhhab.  
+   Refers to **Imam al-Rafi'i** and **Imam al-Nawawi**, whose joint opinions form the relied-upon (*mu'tamad*) positions of the madhhab.
 
 4. **Ashab al-Wujuh (أصحاب الوجوه)**  
-   A select group of early mujtahid Imams *within* the madhhab who formulated independent opinions (*wujuh*), later codified by scholars like **al-Nawawi** and **al-Rafi'i**.  
-   Some of these include **Imam Muzani**, **Hujjat al-Islam Abu Hamid al-Ghazali**, **Imam Buwayti**, and **Abu Ishaq al-Shirazi**.  
+   Early jurists within the school who developed independent opinions (*wujuh*) later recorded by al-Nawawi and al-Rafi'i.  
+   Among them were **al-Muzani**, **al-Buwayti**, **Abu Ishaq al-Shirazi**, and **Abu Hamid al-Ghazali**.
 
-5. **Al-Mujaddid (المجدد)**  
-   Refers to revivers of the school’s teaching and methodology in their respective centuries—e.g., **al-Shafi'i** in the *2nd century*, **al-Nawawi** in the *7th century*, **al-Suyuti** in the *10th*.  
+5. **Shaykh al-Ashab / Imam al-Ashab (شيخ الأصحاب / إمام الأصحاب)**  
+   Title of **Abu'l-Abbas Ahmad ibn Surayj al-Baghdadi**, known as *Shaykh al-Madhhab* for consolidating the early Shafi'i tradition.  
+   A student of al-Anmati (who learned from al-Muzani and al-Rabi'), he wrote over 400 works including *al-Taqrib bayn al-Muzani wa al-Shafi'i*.  
+   Al-Suyuti regarded him as the reviver (*mujaddid*) of the third century.
 
-6. **Shaykh al-Islam (شيخ الإسلام)**  
-   Refers almost always to **Zakariyyah al-Ansari**, the Mujaddid of the 9th century, as well as the teacher of many luminaries including Ibn Hajar al-Haytami, al-Khatib al-Shirbini, and Shams al-Din al-Ramli.
+6. **Al-Shaykh (الشيخ)**  
+   Refers to **Abu Ishaq al-Shirazi**, author of *al-Muhadhdhab*, *al-Luma'*, and *al-Tanbih*.  
+   A student of Abu Tayyib al-Tabari in Baghdad, he rose from poverty to lead the jurists of his time.  
+   He became known simply as *al-Shaykh* after dreaming of the Prophet صلى الله عليه وسلم addressing him, “Ya Shaykh.”
 
-7. **al-Sharih (الشارح)**  
-   Refers almost always to **Imam Jalal al-Din al-Mahalli**, the distinguished Shafi‘i jurist and theologian renowned for his precise and accessible commentaries. He authored a commentary on Imam Nawawi’s Minhaj al-Talibin, a commentary on al-Waraqat in Usul al-Fiqh, and a commentary on Jam‘ al-Jawami‘ by Imam al-Subki. He is also known as the co-author of Tafsir al-Jalalayn, completed by his student Jalal al-Din al-Suyuti.
+7. **Shaykh al-Islam (شيخ الإسلام)**  
+   Refers almost always to **Zakariyyah al-Ansari**, the great renewer of the 9th century and teacher of many leading scholars such as Ibn Hajar al-Haytami, al-Khatib al-Shirbini, and Shams al-Din al-Ramli.  
+   He was known for his mastery of fiqh, hadith, and tasawwuf, and for uniting the Shafi'i tradition in his time.
+
+8. **Al-Sharih (الشارح)**  
+   Refers to **Imam Jalal al-Din al-Mahalli**, known for his concise and precise commentaries on *Minhaj al-Talibin*, *al-Waraqat*, and *Jam‘ al-Jawami‘*.  
+   He also co-authored *Tafsir al-Jalalayn*, completed after his death by his student Jalal al-Din al-Suyuti.
 
 :::
 

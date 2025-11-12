@@ -20,7 +20,10 @@ limitations under the License.
 
 # Introduction {#sec-intro}
 
-The long-term goal of this project is to provide an accessible, organized study companion for English-speaking students of sacred law, based on **Sharh al-Waraqat by Imam Jalal al-Din al-Mahalli**, and taught according to reliable Shafi'i methodology and sources by [**Sheikh Abdullahi Shire **](https://www.instagram.com/abdullahishire_/?hl=en)of [**Miraath Institute**](https://www.instagram.com/miraathinstitute/?hl=en).
+The long-term goal of this project is to provide an accessible, organized study companion for English-speaking students of sacred law, based on **Sharh al-Waraqat by Imam Jalal al-Din al-Mahalli**, and taught according to reliable Shafi'i methodology and sources by [**Sheikh Abdullahi Shire**](https://www.instagram.com/abdullahishire_/?hl=en) of [**Miraath Institute**](https://www.instagram.com/miraathinstitute/?hl=en).  
+
+For those interested in learning more about the life of Imam al-Shafi'i and the historical development of the madhhab, please refer to [**this resource**](https://lisanproject.github.io/FiqhalManhaji/course-material.html).
+
 
 This work was originally inspired by a fellow student (may Allah preserve him and protect him) who inquired about my note-taking approach a while back. In the spirit of classical tradition, I was reminded of **Ta'lim al-Muta'allim fi Tariq al-Ta'allum** (*Instruction of the Student: The Method of Learning*), which outlines adab and practical methods for serious seekers of sacred knowledge.
 
