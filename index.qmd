@@ -4,7 +4,7 @@ pagetitle: "Sharh Matn al-Waraqat by Imam Jalal al-Din al Mahalli"
 
 # Sharh Matn al-Waraqat
 ### A Commentary (by Imam Jalal al-Din al-Mahalli) on the Foundational Primer in Usul al-Fiqh in the Shafi'i Madhhab authored by Imam al-Haramain al-Juwayni   
-**(c) 2025 Liban Hussein**
+**(c) 2025 L.A Hussein**
 
 This project is a work-in-progress collection of notes and commentary based on the lectures of [**Sheikh Abdullahi Shire **](https://www.instagram.com/abdullahishire_/?hl=en), may Allah protect and preserve him, where he is an instructor and co-founder of [**Miraath Institute**](https://www.instagram.com/miraathinstitute/?hl=en). In the current course, we are covering **Sharh Matn al-Waraqat**, a foundational text on Usul in the **Shafi'i madhhab**.
 
