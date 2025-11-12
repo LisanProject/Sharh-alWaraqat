@@ -8,15 +8,4 @@ pagetitle: "Sharh Matn al-Waraqat by Imam Jalal al-Din al Mahalli"
 
 This project is a work-in-progress collection of notes and commentary based on the lectures of [**Sheikh Abdullahi Shire **](https://www.instagram.com/abdullahishire_/?hl=en), may Allah protect and preserve him, where he is an instructor and co-founder of [**Miraath Institute**](https://www.instagram.com/miraathinstitute/?hl=en). In the current course, we are covering **Sharh Matn al-Waraqat**, a foundational text on Usul in the **Shafi'i madhhab**.
 
-[**Click here to access the original Arabic text (PDF) from the publishing house Dar al-Taiba**](https://archive.org/details/20241220_20241220_2248/page/n1/mode/2up)
-
----
-
-::: {.callout-note}
-
-## **Quote**
-> *"Usul al-Fiqh governs, and is not governed (i.e, it is a master science )."*  
-> — Hujjat al-Islam al-Ghazali
-:::
-
-
+[**Click here to access the original Arabic text (PDF) from the publishing house Dar al-Taiba**](https://archive.org/details/20241220_20241

@@ -1,7 +1,7 @@
 ---
 title: Commentary of "Al-Waraqat" by Imam Jalal al-Din al-Mahalli
 author:
-  - name: Liban Hussein
+  - name: L.A. Hussein
     email: lisanproject25@gmail.com
     roles: "Author & Learner"
     affiliation:
@@ -10,7 +10,7 @@ author:
 date: last-modified
 license: "CC BY-NC 4.0"
 copyright:
-  holder: "Liban Hussein"
+  holder: "L.A. Hussein"
   year: 2025
 format:
   html:
