@@ -289,4 +289,5 @@ You can search by Arabic root (**ش ر ح**, **ف ق ه**, **أ ص ل**) to see 
 
 ::: {.callout-important title="Final Review"}
 Make sure you can answer these questions before moving on to the next lesson.  
-وبا�
+وبالله التوفيق.
+:::
