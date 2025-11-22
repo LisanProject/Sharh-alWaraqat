@@ -181,7 +181,7 @@ The hukm is **wujub**; **Fajr is the wajib act** that fulfills that obligation.
 
 Classical usulis differed slightly in how they articulated obligation. Imam al-Haramayn al-Juwayni defined *wajib* as:
 
-> **That whose leaving entails punishment.**
+> **An actions whose leaving/lack of performance of entails punishment.**
 
 This wording may imply that if a person leaves a wajib and is not punished (due to forgiveness, error, or excuse), then the act would no longer be considered wajib. Imam al-Mahalli refines this definition to preserve its correctness, giving two valid interpretive “exits”:
 
@@ -308,5 +308,12 @@ These terms relate to permissibility, not obligation.
 - [ ] Why is memorizing categories without application not considered fiqh?
 
 ---
+
+::: {.callout-note title="Discipline in the Path of Knowledge"}
+
+“I do not eat or sleep out of habit, but only if sleep overcomes me whether by night or by day, and only if I need to eat, whatever the time it is.”
+
+— Imam al-Haramayn al-Juwayni 
+:::
 
 **وبالله التوفيق**
