@@ -10,10 +10,12 @@
     "01-introduction-usul-al-fiqh.html": "32180ced"
   },
   "Lectures/01-Introduction-usul-al-fiqh.qmd": {
-    "01-Introduction-usul-al-fiqh.html": "b09b432d"
+    "01-Introduction-usul-al-fiqh.html": "b09b432d",
+    "01-Introduction-usul-al-fiqh.tex": "70b64afd"
   },
   "Lectures/02-Ahkam.qmd": {
-    "02-Ahkam.html": "bede833c"
+    "02-Ahkam.html": "bede833c",
+    "02-Ahkam.tex": "50d94980"
   },
   "Lectures/01-Introduction-usul-al-fiqh copy.qmd": {
     "01-Introduction-usul-al-fiqh copy.html": "65ee713a"

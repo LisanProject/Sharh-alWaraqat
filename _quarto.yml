@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "Lisan Project"
   page-navigation: true
@@ -43,4 +44,10 @@ format:
     number-sections: true
     code-copy: true
     code-overflow: wrap
-code-overflow: wrap
+
+  pdf:
+    toc: true
+    number-sections: true
+    pdf-engine: xelatex
+    mainfont: "Amiri"
+    lang: ar
