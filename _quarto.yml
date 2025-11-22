@@ -44,10 +44,3 @@ format:
     number-sections: true
     code-copy: true
     code-overflow: wrap
-
-  pdf:
-    toc: true
-    number-sections: true
-    pdf-engine: xelatex
-    mainfont: "Amiri"
-    lang: ar
