@@ -23,7 +23,57 @@ A teacher's companionship, and lengthy time.
 
 This lesson continues our study of *al-Waraqat* with Sheikh Abdullahi by clarifying the usuli meaning of legal rulings (*ahkam*), distinguishing obligation from action, and explaining how rulings relate to the acts of the mukallaf. We focus on *wujub* (obligation) and *ibahah* (permissibility) in this lesson with the goal to cover the other categories of ahkam in subsequent lessons.
 
----
+## Lecture Map: Timestamps
+
+::: {.callout-tip title="Lecture II Timestamps" collapse="true"}
+- **00:00–01:00** — Recap of Lecture I and purpose of Usul al-Fiqh  
+- **01:00–02:05** — Mabadi al-Ilm and defining a science  
+- **02:59–04:55** — Two ways of defining Usul al-Fiqh: linguistic + construct phrase  
+- **04:57–05:15** — Common mistake: calling Usul study of “evidences”  
+- **05:15–07:12** — Difference between ma'rifah and ilm  
+- **07:21–09:20** — Defining fiqh properly  
+- **09:20–10:50** — Mistake: assuming categories = rulings  
+- **10:50–11:59** — Fiqh as rulings known through ijtihad  
+- **11:59–12:54** — One way of knowing rulings is asking an alim  
+- **12:55–17:30** — Examples of rulings requiring ijtihad  
+- **17:30–18:30** — Matters known by certainty (*daruri*) vs. by reasoning (*nadari*) 
+- **19:23–20:12** — Example: fasting Monday as fiqh  
+- **20:12–22:45** — Question: differing madhhab examples and why instructor uses them (particularly Shafi'is vs Hanafis)
+- **22:46–23:36** — *Question from a brother:* What is subjective knowledge?  
+- **23:40–24:04** — *Question from a brother:* What is ijtihad?  
+- **24:28–28:36** — Difference between alim, mujtahid, faqih, usuli  
+- **28:36–30:16** — Problem of scholars speaking outside their discipline  
+- **30:16–33:40** — Mistake: calling “wajib” the hukm  
+- **33:40–39:28** — Defining hukm according to usulis  
+- **39:28–39:52** — Key terms: ijab, wujub, wajib  
+- **39:52–40:35** — *Question from a brother:* Translating hukm into English  
+- **40:35–41:10** — Stories vs rulings; Prophet Yusuf as wazir (*shar' man qablana*)  
+- **41:10–48:35** — Returning to ijab/wujub/wajib with examples  
+- **48:35–49:00** — *Question from a sister:* Difference between wajib and wujub  
+- **49:00–52:15** — Example: two raka'ahs that appear identical (Fajr vs tahiyyat al-masjid)  
+- **52:15–52:35** — *Question from a brother:* Is ijab the source?  
+- **52:35–54:00** — Nuance in definition of wajib: punishment for leaving it  
+- **54:00–1:03:35** — Refinement: punishment as consequence vs condition  
+- **1:03:35–1:14:40** — Defining mubah + baraat al-asliyyah  
+:::
+
+## Mabadi al Ilm — Foundational Principles of a Science
+
+In the first lesson, we introduced **al-Hadd (the definition)** as the first foundational principle of any science. Classical scholars note that every discipline has essential introductory principles known as *mabadi al ilm* which are the foundational entry points that allow a student to understand a field before studying its details.
+
+These principles typically include matters such as:
+
+- The definition of the science (al-Hadd)
+- Its subject matter (mawdu)
+- Its purpose or benefit (thamara)
+- Its relationship to other sciences
+- The legal status of studying it
+
+::: {.callout-note title="Resource on the Mabadi al Ilm"}
+The Miraath Admin Team (may Allah reward them) have compiled a resource listing out these foundational principles and have allowed space for students to fill in details and examples for their benefit:
+
+[Click here to view the document](https://docs.google.com/document/d/1TV5HGSfuvqfK41FqSUyk54HkB_U7qrR9Cq-cMVYyigY/edit?tab=t.0)
+:::
 
 ## What is Usul al-Fiqh?
 
@@ -33,8 +83,6 @@ Usul al-fiqh refers to the **principles and methodology by which legal rulings a
 |-------|---------|
 | **Linguistic** | "Roots" + "understanding" |
 | **Technical** | Principles governing the derivation of rulings through ijtihad |
-
----
 
 ## What Does Fiqh Mean?
 
@@ -129,6 +177,69 @@ The hukm is **wujub** established by **ijab**; fasting is the **wajib act** that
 The hukm is **wujub**; **Fajr is the wajib act** that fulfills that obligation.
 :::
 
+## Juwayni’s Definition of Wajib & Mahalli’s Refinements
+
+Classical usulis differed slightly in how they articulated obligation. Imam al-Haramayn al-Juwayni defined *wajib* as:
+
+> **That whose leaving entails punishment.**
+
+This wording may imply that if a person leaves a wajib and is not punished (due to forgiveness, error, or excuse), then the act would no longer be considered wajib. Imam al-Mahalli refines this definition to preserve its correctness, giving two valid interpretive “exits”:
+
+### **1. Punishment Exists Even if Applied to Only One Person**
+
+> It is sufficient that *the possibility of punishment exists* and that it is carried out *for at least one person*, even if others are pardoned.
+
+Meaning: The definition holds if punishment occurs **in principle**, not universally.
+
+### **2. Leaving the Act Is Something That *May* Entail Punishment**
+
+Rather than stating punishment *always follows*, one can say:
+
+> Leaving the act *could result* in punishment.
+
+This wording preserves the concept of obligation while recognizing forgiveness, excuses, or lack of enforcement.
+
+::: {.callout-tip title="Key Takeaway"}
+Forgiveness does not negate obligation and punishment does need not to occur every time for something to be considered wajib.
+:::
+
+---
+
+## Nadb and Mandub
+
+These terms relate to **recommendation**, not obligation.
+
+| Term | Meaning |
+|------|---------|
+| **Nadb** | The divine communication that encourages an act without decisiveness |
+| **Nadb** | Also refers to the legal effect of that communication (the ruling state) |
+| **Mandub** | The act performed under that encouraged ruling |
+
+The key distinction is that the command exists, but **not in a decisive or binding way**, meaning performing the act earns reward, while leaving it does not entail blame or punishment.
+
+---
+
+### Examples of Mandub Actions
+
+| Action | Why It Is Mandub |
+|--------|------------------|
+| Writing contracts for debts | Encouraged but not decisively demanded |
+| Praying Duha | Encouraged and rewarded, no blame for leaving |
+| Voluntary charity | Rewarded, not obligatory |
+| Fasting Monday/Thursday | Encouraged by the Sunnah, not binding |
+
+---
+
+### Correcting Misstatements
+
+::: {.callout-warning title="Incorrect Statement"}
+"Fasting Monday is the hukm."
+:::
+
+::: {.callout-tip title="Correct Statement"}
+"The hukm is **nadb**; fasting Monday is the **mandub action**."
+:::
+
 ---
 
 ## Ibahah and Mubah
@@ -167,11 +278,12 @@ These terms relate to permissibility, not obligation.
 
 ---
 
-## Summary Table — Obligation vs Permission
+### Summary — Three Categories Compared
 
 | Category | Hukm (Ruling State) | Act |
-|----------|----------------------|------|
-| **Obligation** | Wujub (from ijab) | Wajib |
+|----------|--------------------|------|
+| **Obligation** | Wujub | Wajib |
+| **Recommendation** | Nadb | Mandub |
 | **Permission** | Ibahah | Mubah |
 
 ---
@@ -181,6 +293,7 @@ These terms relate to permissibility, not obligation.
 ### Understanding Key Distinctions
 
 - [ ] Can I define ijab, wujub, and wajib separately?
+- [ ] Can I distinguish between nadb (hukm) and mandub (the act)?
 - [ ] Can I define ibahah and mubah and distinguish between them?
 
 
