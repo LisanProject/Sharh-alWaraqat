@@ -1,0 +1,237 @@
+---
+pagetitle: "Lecture II: Defining Fiqh and Legal Rulings"
+---
+
+# Lecture II: Defining Fiqh and Legal Rulings [11/15/2025, Jumada al-Awwal 24, 1447 AH]
+
+::: {.callout-note title="Poem of Imam al-Shafii — Keys to Knowledge"}
+
+أخي لن تنال العلم إلا بستة  
+سأنبئك عن مجموعها ببيان
+
+ذكاء وحرص واجتهاد وبلغة  
+وصحبة أستاذ وطول زمان
+
+<br>
+
+My brother, you cannot gain knowledge except with six.  
+I will inform you of them altogether with explanation.  
+A sharp mind, passion, effort, and sustenance.  
+A teacher's companionship, and lengthy time.
+
+:::
+
+This lesson continues our study of *al-Waraqat* with Sheikh Abdullahi by clarifying the usuli meaning of legal rulings (*ahkam*), distinguishing obligation from action, and explaining how rulings relate to the acts of the mukallaf. We focus on *wujub* (obligation) and *ibahah* (permissibility) in this lesson with the goal to cover the other categories of ahkam in subsequent lessons.
+
+---
+
+## What is Usul al-Fiqh?
+
+Usul al-fiqh refers to the **principles and methodology by which legal rulings are derived**, not the rulings themselves.
+
+| Level | Meaning |
+|-------|---------|
+| **Linguistic** | "Roots" + "understanding" |
+| **Technical** | Principles governing the derivation of rulings through ijtihad |
+
+---
+
+## What Does Fiqh Mean?
+
+Linguistically:  
+> Understanding
+
+Technically:  
+> Knowing the legal rulings of actions derived through ijtihad
+
+Thus:
+
+- Knowing terms = **ma'rifah**
+- Knowing how rulings apply = **fiqh**
+
+Two outwardly identical actions may differ in ruling based on cause (*sabab*), conditions, and legal qualification.
+
+---
+
+## Defining Hukm (Legal Rulings)
+
+::: {.callout-definition title="Definition of Hukm (Usuli)"}
+خطاب الله المتعلق بأفعال المكلفين بالاقتضاء أو التخيير أو الوضع
+:::
+
+A hukm is:
+
+- A **divine address**, not an action  
+- Related to **the acts** of legally responsible persons  
+- Expressed as command, choice, or legal causation
+
+Rulings apply to **actions**, not abstract information.
+
+---
+
+## Common Pitfalls
+
+::: {.callout-warning title="Mistake: Saying 'Wajib is the hukm'"}
+The hukm is the divine address (ijab). Wajib describes the act required by that address.
+:::
+
+::: {.callout-warning title="Mistake: Mixing act and ruling"}
+An action (fasting, praying, eating) is not the ruling applied to it.
+:::
+
+::: {.callout-warning title="Mistake: Treating usul as study of evidences"}
+Usul concerns methodology; evidences belong to fiqh.
+:::
+
+---
+
+## Ijab, Wujub, and Wajib
+
+Obligation (*wujub*) has three related terms:
+
+| Term | Meaning |
+|------|---------|
+| **Ijab** | The divine command creating obligation |
+| **Wujub** | The hukm: the legal state of obligation resulting from ijab |
+| **Wajib** | The act required by that obligation |
+
+### Example: Fasting Ramadan
+
+| Aspect | Description |
+|--------|------------|
+| **Ijab** | Allah's command to fast |
+| **Wujub** | Obligation established upon the mukallaf |
+| **Wajib** | The act of fasting |
+
+::: {.callout-warning title="Incorrect Statement"}
+"Fasting is the hukm" or "fasting is wajib" (as a hukm).
+:::
+
+::: {.callout-tip title="Correct Statement"}
+The hukm is **wujub** established by **ijab**; fasting is the **wajib act** that fulfills that obligation.
+:::
+
+---
+
+### Additional Examples
+
+| Scenario | Ijab | Wujub | Wajib |
+|----------|------|--------|--------|
+| Fajr | Command to pray | Obligation established | Two raka'ahs of Fajr |
+| Zakah | Command + nisab met | Obligation upon wealth | Paying due amount |
+| Jumuah | Command + conditions | Obligation established | Attending Jumuah prayer |
+
+::: {.callout-warning title="Incorrect Statement"}
+"Fajr itself is wujub" or "Fajr is the hukm."
+:::
+
+::: {.callout-tip title="Correct Statement"}
+The hukm is **wujub**; **Fajr is the wajib act** that fulfills that obligation.
+:::
+
+---
+
+## Ibahah and Mubah
+
+These terms relate to permissibility, not obligation.
+
+| Term | Meaning |
+|------|---------|
+| **Ibahah** | The divine allowance granting choice (this is the hukm) |
+| **Ibahah** | The legal effect produced by that allowance |
+| **Mubah** | The action permitted under that ruling |
+
+::: {.callout-note title="Foundational Principle"}
+الاصل في الاشياء الاباحة  
+"The default ruling of things is permissibility."
+:::
+
+---
+
+### Examples of Mubah
+
+| Action | Why It Is Mubah |
+|--------|----------------|
+| Choosing between lawful foods | No command specifying type |
+| Clothing styles within modesty | Neutral in itself |
+| Traveling for leisure | Neither commanded nor prohibited |
+| Working a lawful job | Neutral act, even if earning provision may become obligatory |
+
+::: {.callout-warning title="Incorrect Statement"}
+"Eating food is mubah."
+:::
+
+::: {.callout-tip title="Correct Statement"}
+"Ibahah is the hukm; eating food is the mubah action."
+:::
+
+---
+
+## Summary Table — Obligation vs Permission
+
+| Category | Hukm (Ruling State) | Act |
+|----------|----------------------|------|
+| **Obligation** | Wujub (from ijab) | Wajib |
+| **Permission** | Ibahah | Mubah |
+
+---
+
+## Self-Assessment Checklist — Lecture II
+
+### Understanding Key Distinctions
+
+- [ ] Can I define ijab, wujub, and wajib separately?
+- [ ] Can I define ibahah and mubah and distinguish between them?
+
+### Classification Exercise — Identify Ijab, Wujub, Wajib, Ibahah, and Mubah
+
+For each scenario below, identify the correct component(s) of the ruling where applicable (in some cases, the hukm is wujub and in others, ibahah. Some options won't apply.)
+Check off each line once you have written the appropriate answer.
+
+#### **A — Fasting Ramadan**
+
+- [ ] **Ijab — What is the divine command?**  
+- [ ] **Wujub — What legal obligation is established?**  
+- [ ] **Wajib — What is the required act?**  
+- [ ] **Ibahah — Where is permissible choice present (if applicable)?**  
+- [ ] **Mubah — What neutral act relates to this scenario?**  
+
+
+#### **B — Paying Zakah**
+
+- [ ] **Ijab — What is the command?**  
+- [ ] **Wujub — When does obligation apply?**  
+- [ ] **Wajib — What act fulfills that obligation?**  
+- [ ] **Ibahah — Where is choice permitted?**  
+- [ ] **Mubah — What is a neutral act connected to this?**  
+
+
+#### **C — Eating Food**
+
+- [ ] **Ijab — Is there a command? When?**  
+- [ ] **Wujub — When does eating become obligatory?**  
+- [ ] **Wajib — What act fulfills that obligation?**  
+- [ ] **Ibahah — What permission exists regarding food choices?**  
+- [ ] **Mubah — What is the neutral act itself?**  
+
+#### **D — Working a Job**
+
+- [ ] **Ijab — When could working be commanded?**  
+- [ ] **Wujub — When does working become obligatory?**  
+- [ ] **Wajib — What act fulfills that obligation?**  
+- [ ] **Ibahah — Where is choice present?**  
+- [ ] **Mubah — What action itself is neutral?**  
+
+### Principles
+
+- [ ] What is baraat al-asliyyah?
+- [ ] Do rulings apply to actions or objects?
+
+### Avoiding Errors
+
+- [ ] Why is it incorrect to say "wajib is the hukm"?
+- [ ] Why is memorizing categories without application not considered fiqh?
+
+---
+
+**وبالله التوفيق**

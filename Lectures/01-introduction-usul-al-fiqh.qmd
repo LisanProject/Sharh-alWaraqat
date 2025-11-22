@@ -1,5 +1,5 @@
 ---
-pagetitle: "Lecture Notes"
+pagetitle: "Lecture I: Introduction to Usul al-Fiqh"
 ---
 # Lecture I: Course Introduction to *al-Waraqat* and the Science of Usul al-Fiqh [11/8/2025, Jumada al-Awwal 17, 1447 AH]
 
