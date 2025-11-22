@@ -183,44 +183,6 @@ These terms relate to permissibility, not obligation.
 - [ ] Can I define ijab, wujub, and wajib separately?
 - [ ] Can I define ibahah and mubah and distinguish between them?
 
-### Classification Exercise — Identify Ijab, Wujub, Wajib, Ibahah, and Mubah
-
-For each scenario below, identify the correct component(s) of the ruling where applicable (in some cases, the hukm is wujub and in others, ibahah. Some options won't apply.)
-Check off each line once you have written the appropriate answer.
-
-#### **A — Fasting Ramadan**
-
-- [ ] **Ijab — What is the divine command?**  
-- [ ] **Wujub — What legal obligation is established?**  
-- [ ] **Wajib — What is the required act?**  
-- [ ] **Ibahah — Where is permissible choice present (if applicable)?**  
-- [ ] **Mubah — What neutral act relates to this scenario?**  
-
-
-#### **B — Paying Zakah**
-
-- [ ] **Ijab — What is the command?**  
-- [ ] **Wujub — When does obligation apply?**  
-- [ ] **Wajib — What act fulfills that obligation?**  
-- [ ] **Ibahah — Where is choice permitted?**  
-- [ ] **Mubah — What is a neutral act connected to this?**  
-
-
-#### **C — Eating Food**
-
-- [ ] **Ijab — Is there a command? When?**  
-- [ ] **Wujub — When does eating become obligatory?**  
-- [ ] **Wajib — What act fulfills that obligation?**  
-- [ ] **Ibahah — What permission exists regarding food choices?**  
-- [ ] **Mubah — What is the neutral act itself?**  
-
-#### **D — Working a Job**
-
-- [ ] **Ijab — When could working be commanded?**  
-- [ ] **Wujub — When does working become obligatory?**  
-- [ ] **Wajib — What act fulfills that obligation?**  
-- [ ] **Ibahah — Where is choice present?**  
-- [ ] **Mubah — What action itself is neutral?**  
 
 ### Principles
 
