@@ -16,7 +16,7 @@ website:
       - icon: github
         href: https://github.com/LisanProject/Sharh-Waraqat
         aria-label: GitHub
-
+      
   sidebar:
     style: floating
     collapse-level: 2
@@ -30,6 +30,8 @@ website:
         contents:
           - Lectures/01-Introduction-usul-al-fiqh.qmd
           - Lectures/02-Ahkam.qmd
+          - Lectures/03-Defining_Fiqh_and_Legal_Rulings_Continued.qmd
+          
 
 format:
   html:
